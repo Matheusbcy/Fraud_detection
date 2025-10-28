@@ -6,9 +6,9 @@
 Instituições financeiras enfrentam perdas significativas devido a transações fraudulentas, que totalizam bilhões de dólares anualmente.  
 A detecção manual de fraudes torna-se inviável devido ao volume massivo de transações, exigindo soluções automatizadas que possam identificar padrões suspeitos em tempo real.
 
-### **Problema Principal**  
-
+### **Problema Principal**
 Como desenvolver um sistema de classificação preciso que possa distinguir entre transações legítimas e fraudulentas em um conjunto de dados **altamente desbalanceado**, onde as transações fraudulentas representam **menos de 0.2%** do total.
+
 ---
 
 ## 📂 Fonte dos Dados
