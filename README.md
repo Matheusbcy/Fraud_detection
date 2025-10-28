@@ -8,9 +8,13 @@ A detecção manual de fraudes torna-se inviável devido ao volume massivo de tr
 
 ### **Problema Principal**
 Como desenvolver um sistema de classificação preciso que possa distinguir entre transações legítimas e fraudulentas em um conjunto de dados **altamente desbalanceado**, onde as transações fraudulentas representam **menos de 0.2%** do total.
+---
+## 📂 Fonte dos Dados
+
+O conjunto de dados utilizado neste projeto está disponível publicamente no Kaggle:  
+🔗 [Credit Card Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
-
 ## ⚠️ Desafios Específicos
 
 - **Desequilíbrio Extremo de Classes:** A minoria fraudulenta.
