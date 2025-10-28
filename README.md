@@ -12,7 +12,7 @@ Como desenvolver um sistema de classificação preciso que possa distinguir entr
 ## 📂 Fonte dos Dados
 
 O conjunto de dados utilizado neste projeto está disponível publicamente no Kaggle:  
-🔗 [Credit Card Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+🔗 [Fraud Detection Dataset (Kaggle)]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download))
 
 ---
 ## ⚠️ Desafios Específicos
